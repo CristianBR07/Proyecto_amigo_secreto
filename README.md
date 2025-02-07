@@ -2,6 +2,12 @@
 
 Este es un proyecto web que permite a los usuarios agregar nombres de amigos y realizar un sorteo aleatorio para determinar quién será el amigo secreto de cada participante.
 
+💡 **¿Qué incluye este README?**  
+✅ **Explicación del proyecto**  
+✅ **Instrucciones de instalación**  
+✅ **Cómo funciona**  
+✅ **Funciones principales**  
+
 ## 📜 Características
 - Permite agregar nombres a una lista.
 - Muestra los nombres ingresados dinámicamente.
@@ -32,19 +38,6 @@ Este es un proyecto web que permite a los usuarios agregar nombres de amigos y r
 - agregarAmigo(): Agrega un nombre a la lista.
 - sortearAmigo(): Selecciona un nombre al azar de la lista.
 - actualizarLista(): Muestra los nombres en la interfaz.
-
----
-
-💡 **¿Qué incluye este README?**  
-✅ **Explicación del proyecto**  
-✅ **Estructura de archivos**  
-✅ **Instrucciones de instalación**  
-✅ **Cómo funciona**  
-✅ **Funciones principales**  
-✅ **Posibles problemas y soluciones**  
-✅ **Licencia**  
-
-🔹 **¿Quieres que agregue algo más?** 😃
 
 
 
